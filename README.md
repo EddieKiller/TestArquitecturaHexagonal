@@ -1,4 +1,4 @@
-# TestArquitecturaExagonal
+# TestArquitecturaHexagonal
 
 Ejemplo mínimo de **arquitectura hexagonal (Ports & Adapters)** usando **Next.js 14** y **TypeScript**.
 
